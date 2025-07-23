@@ -3,7 +3,7 @@
 I'm just getting started in the world of programming and open source.
 Learning step by step, and enjoying the process. 🚀
 
-‌ ‌‌‌   ![halo](img/github-header-image.png)
+‌ ‌‌‌   ![halo](https://github.com/BlackYutta/BlackYutta/blob/36d806becf5eed1e9bfa897ebc015d15d26fdcc5/github-header-image.png)
 
 ---
 
